@@ -30,7 +30,14 @@ Antes de rodar o projeto, você precisará do seguinte instalado:
 
 Siga os passos abaixo para rodar o aplicativo localmente:
 
-git clone https://github.com/RaphaelSilvestreAlves/EasyClient
-cd EasyClient
-flutter pub get
-flutter run
+1. Clone o repositório:  
+   **git clone https://github.com/RaphaelSilvestreAlves/EasyClient**  
+
+2. Acesse a pasta do projeto:  
+   **cd EasyClient**  
+
+3. Instale as dependências:  
+   **flutter pub get**  
+
+4. Rode o aplicativo:  
+   **flutter run**  
